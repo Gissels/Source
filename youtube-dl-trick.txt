@@ -1,0 +1,1 @@
+youtube-dl --write-sub  --username "example@gmail.com" --password "example" --verbose --sleep-interval 60 "https://app.pluralsight.com/library/courses/becoming-better-listener/"
